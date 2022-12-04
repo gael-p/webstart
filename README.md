@@ -1,10 +1,10 @@
 # webstart
 
-Installation :  
-npm install
+## Installation :  
+**npm install**
 
-Notes : 
-Méthodologie BEM : https://alticreation.com/bem-pour-le-css/
-Toastify (notifications)
-Awesome Notifications (notifications)
-Ant Design (composants css)
+## Notes : 
+Méthodologie BEM : https://alticreation.com/bem-pour-le-css/<br/>
+Toastify<br/>
+Awesome Notifications<br/>
+Ant Design<br/>
